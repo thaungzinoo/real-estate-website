@@ -19,16 +19,17 @@
 html{
 
     overflow-x: hidden;
-    scroll-behavior:smooth ;
-    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
 }
 
 body{
-    background: #f7f7f7;
+    background-color: #f7f7f7;
 }
 
 header{
-    background-color: rgba(225, 244, 244, 0.888);
+    background-color: rgba(223, 245, 245, 0.888);
+
     position: fixed;
     top: 0;
     left: 0;
@@ -100,8 +101,8 @@ section {
 }
 .home {
 
-    min-height: 98vh;
-    background: url(images/r3.jpg)no-repeat;
+    min-height: 100vh;
+    background: url(image/sale1.jpg)no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -110,6 +111,7 @@ section {
     justify-content: center;
     background-color: rgb(19, 234, 148);
     z-index: -1;
+   
 
 
 }
