@@ -101,7 +101,7 @@ section {
 .home {
 
     min-height: 100vh;
-    background: url(images/r3.jpg)no-repeat;
+    background: url(image/sale7.jpg)no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -109,13 +109,14 @@ section {
     align-items: center;
     justify-content: center;
     background-color: rgb(19, 234, 148);
+    
 
 
 }
 
 .home form {
     margin-top: 38rem;
-    background: rgba(235, 239, 239, 0.888);
+    background: #f1f1f1f1;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
     border: solid rgba(0, 0, 0, .2);
@@ -129,7 +130,7 @@ section {
 
 .home form h3 {
     text-align: center;
-    color: #333;
+    color: #0d0101f1;
     font-size: 2rem;
     font-weight: bolder;
 }
